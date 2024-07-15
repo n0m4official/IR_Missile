@@ -17,21 +17,18 @@ This project explores the basic concepts and algorithms involved in missile guid
 To get started with this project, follow these steps:
 
 1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/your-username/missile-guidance-project.git
-   ```
+   Download the ZIP file
 2. **Navigate to the Project Directory:**
-   ```sh
-   cd missile-guidance-project
-   ```
-3. **Open the Project:**
+   Extract all files of the downloaded file
+   
+4. **Open the Project:**
    Open the project in your preferred C# development environment (e.g., Visual Studio).
 
-4. **Build the Solution:**
+5. **Build the Solution:**
    Build the solution to restore dependencies and compile the project.
 
-5. **Run Simulations:**
-   Execute the provided scripts to run the simulations and observe the results.
+6. **Run Simulations:**
+   Execute the provided scripts to run the simulations and observe the results. **(Currently in development)**
 
 ## Learning Objectives
 By working on this project, you will:
