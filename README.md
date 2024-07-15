@@ -11,7 +11,7 @@ Welcome to the Missile Guidance Project! This repository is intended solely for 
 - **I am not responsible for how others choose to use, modify, or distribute this code.**
 
 ## Project Overview
-This project explores the basic concepts and algorithms involved in missile guidance. It includes simple simulations and code examples that demonstrate how guidance systems work.
+This project explores the basic concepts and algorithms involved in missile guidance. It will eventually include simple simulations and code examples that demonstrate how guidance systems work.
 
 ## Getting Started
 To get started with this project, follow these steps:
